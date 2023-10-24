@@ -28,3 +28,4 @@ def SpeechRecognition():
 
 
 print("You said: " + SpeechRecognition())
+print("You said: " + SpeechRecognition())
